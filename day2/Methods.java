@@ -1,3 +1,4 @@
+package day2;
 class Methods {
 
 	static int add(int a, int b)

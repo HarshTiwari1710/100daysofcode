@@ -1,3 +1,4 @@
+package day2;
 class Helper {
 	static int Multiply(int a, int b)
 	{

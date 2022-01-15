@@ -1,3 +1,4 @@
+package day2;
 abstract class Shape {
 	String color;
 	abstract double area();

@@ -1,3 +1,4 @@
+package day2;
 class Encapsulate {
 	private String geekName;
 	private int geekRoll;
